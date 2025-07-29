@@ -1,0 +1,5 @@
+kalkulator-web/
+├── index.php        → halaman utama kalkulator (frontend)
+├── style.css        → semua style termasuk dark/light mode & efek timbul
+└── script.js        → logika tombol kalkulator & toggle mode
+

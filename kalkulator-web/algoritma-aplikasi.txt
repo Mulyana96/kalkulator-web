@@ -1,0 +1,35 @@
+Algoritma Aplikasi Kalkulator Web
+
+1. Inisialisasi Tampilan
+
+Buat elemen <input> sebagai penampung angka dan hasil.
+
+Tampilkan dalam UI iPhone emulator.
+
+
+2. Menangani Event Tombol
+
+Saat tombol angka/operator ditekan → tambahkan ke tampilan.
+
+Saat tombol "=" ditekan → evaluasi ekspresi matematika.
+
+Saat tombol "Clear" ditekan → kosongkan tampilan.
+
+
+3. Evaluasi Ekspresi
+
+Ekspresi dihitung menggunakan fungsi eval() (JavaScript).
+
+Jika error → tampilkan "Error".
+
+
+4. Mode Gelap/Terang
+
+Toggle class body (mode-dark ↔ mode-light) saat tombol 🌙/☀️ diklik.
+
+
+5. Tampilkan Footer
+
+Tampilkan © 2025_mulyana di bawah kalkulator.
+
+

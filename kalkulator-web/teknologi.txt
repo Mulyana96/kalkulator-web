@@ -1,0 +1,16 @@
+
+                                                                            
+
+1. Client-Side (Frontend)
+                                                                                            
+| 🖼️ HTML5                     : Struktur tampilan halaman kalkulator dan dashboard                                                   
+| 🎨 CSS3 + Bootstrap 5.3      : Styling tampilan responsif, tombol, efek mode terang/gelap, dan efek timbul                            
+| 📱 iPhone Emulator CSS       : Desain frame kalkulator menyerupai iPhone 16 Pro                                                       
+| 🧠 JavaScript (Vanilla JS)   : Logika tombol angka/operator, evaluasi ekspresi (`eval()`), dan fitur toggle mode                    
+| 🌗 Light/Dark Mode           : Dikontrol oleh JavaScript dengan `classList.toggle()` dan class `.mode-light`  `.mode-dark` 
+
+2. Server-Side (Backend) 
+
+ 🐘 PHP 8.3.6  Men-generate tombol kalkulator menggunakan foreach, mengatur struktur file seperti kalkulator.php 
+📦 XAMPP (Apache + MySQL + PHP) | Web server lokal yang mengeksekusi file PHP dan melayani ke browser 
+
